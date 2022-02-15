@@ -16,9 +16,9 @@ Note
 
 ## Installation
 
-Download the tarball as described above and tar jx it.
+Clone the repository as described above.
 
-After extracting, add the following option to your NGINX `./configure` command:
+After downloading, add the following option to your NGINX `./configure` command:
 
 `--add-module=path/to/mp4_streaming_lite/directory`
 
